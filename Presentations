@@ -9,71 +9,79 @@ you can team up with someone and co-present: if you do team up, the presentation
 
 Lifecycle Models and Process
 
-1.	Kanban (Software Development)	-
+1.	Kanban (Software Development)	- Gavin Gizzie 002 (https://youtu.be/qkFKbpL3uNw), Natalie Myers 002
 
-2.	Crystal (Software Development)	- Marcus Patton | 002, Camden Brunsma 002
+2.	Crystal (Software Development)	- Marcus Patton | 002 (Marcus Patton https://youtu.be/ha3QNEwYr8g) , Camden Brunsma 002 (Camden Brunsma https://www.youtube.com/watch?v=vzvz2LRYPSw&t=1s)
 
 3.	Team Software Process and Personal Software Process -  
 
-4.a.	Build Automation - 
+4.a.	Build Automation - Jacob Whaley 001, Toan Nguyen 002 (https://youtu.be/rgs5DFQ3brU)
 
 4.b. 	CI/CD Pipeline - Akmal Arifov 002, Brody Laws 002
 
-4.c Azure DevOps - 
+4.c Azure DevOps - Elijah Cox & Nikki Clark 002 https://youtu.be/AMTQ6LkcRjo 
 
 Project Management and Professional Practice
-5.	Risk Management - Ashley Johns 002, Team Up: (Cody Slaughter & Ava Valente 002)
+5.	Risk Management - Ashley Johns 002, Team Up: (Cody Slaughter & Ava Valente 002 - https://youtu.be/asQ-9EKphCc)
 
-6.	Software Complexity Metrics	- 
+6.	Software Complexity Metrics	- Lucien A.A. Verdun 002 (https://youtu.be/NO20zmBDnJM), Luke Campbell 002 (https://www.youtube.com/watch?v=cao7H23iVQ4)
 
 7.	Formal Methods			- 
 
-8.	Cleanroom Software Engineering -  
+8.	Cleanroom Software Engineering -  Alexander Gillespie 002 https://youtu.be/WjJeFbPOQQo
 
 9.	Microsoft Project - 
 
-9.a, Kanban vs Scrum Boards - Ashley Andrade 002
+9.a, Kanban vs Scrum Boards - Ashley Andrade 002 - (https://www.youtube.com/watch?v=efw3ylLoDCo), Cooper Bowman 002
 
 Software Architectures and Tools
 10.	Angular or React -  Steven Mullins (Angular) | 002
 
 11.	Service-Oriented Architecture - Mason Kelley 002 (https://youtu.be/4uI1D0lB028?si=KC7MMYifr2DeagaP) | 
 
-12.	Infrastructure as a Service	-  Augustus Shell | 002
+12.	Infrastructure as a Service	-  Augustus Shell | 002 ( https://youtu.be/fI_fdDw2neA )
 
-13.	Platform as a Service	- 
+13.	Platform as a Service	- Nathaniel Mullins (002) - https://www.youtube.com/watch?v=KLqSY4QeCNQ
 
-14.	Docker  -  Derek Depew, Derek Tapp 002
+14.	Docker  -  Derek Depew, Derek Tapp 002 (https://youtu.be/niIpi-jAb4o)
 
-15.	Ansible - Noah Coleman 
+15.	Ansible - Noah Coleman , Logan Edwards 002
 
-16.	Jenkins	- Chris Wilmoth, Connor Fulks 002
+16.	Jenkins	- Chris Wilmoth 002 -> (https://youtu.be/vM4vG14rmUI),  Connor Fulks 002 (https://youtu.be/wGrDNG16w9k)
 
-17.	Splunk (for DevOps) -  
+17.	Splunk (for DevOps) -  Cayleigh Shaw 001 (https://youtu.be/NY9ziVRO2aU)
 
-18.	Selenium -  Samuel Deaton|002
+18.	Selenium -  Samuel Deaton|002 (https://youtu.be/jGHEqJ29Kf0)
 
-19.	AWS or Azure -  Brandon Bartley 002, Brady Loos 002
-                    
+19.	AWS or Azure -  Brandon Bartley 002, Brady Loos 002 (https://www.youtube.com/watch?v=-8P_r5Jjuwk)
+
+19.a Ubuntu Server - Logan Bachman 002
 
 Development Paradigms and Testing
-20.	Test-Driven Development -  
+20.	Test-Driven Development -  Derek Emodi 002
 
-21.	Behavior Driven Development -  
+21.	Behavior Driven Development -  Jaiden Sanders 002 (https://www.youtube.com/watch?v=YmIurgoB0o8)
 
-22.	Feature Driven Development -  
+22.	Feature Driven Development -  Jesse Price 002 (https://youtu.be/JJEgVW2KbQQ)
 
 23.	Dependency Injection -  
 
 
 AI in SE
-24. AI for code completion - 
+24. AI for code completion - CJ Parham 002: https://www.youtube.com/watch?v=v273H-kAjtE , Christian Mills 001
 
-25. AI for code creation (where the AI writes all the code) - Timothy Stout
+25. AI for code creation (where the AI writes all the code) - Timothy Stout (002) - https://youtu.be/3tHlLTE_AiE , Brandon Garrison 001 (https://youtu.be/nQGP7So_xvw)
                  
-26. AI for code analysis - Robert Brown-002
+26. AI for code analysis - Robert Brown-002, Alex Smith-002 https://youtu.be/kXnB0Qhd890
 
 The Pheonix Project - Elijah Amador, 002
 
 Roles in SDLC
-27. "Classes" of a Dev Team - David Dunlop
+27. "Classes" of a Dev Team - David Dunlop, 002 (https://youtu.be/oGnyRpigEUs?si=_iSwtZhHccLzhR53)
+
+The Physics of Game developement
+28. How physics of game develoepement(collision detection, movement, etc.) works in the deeper context of SE - Braeden Adair (https://drive.google.com/file/d/1HJB5wt-GyI1k-1X-Vxb2k5bpCa94WluQ/view?usp=sharing)
+
+
+
+29. Learning levels and showing understanding -- visual presentation on levels of understanding a topic -- Alexander Benton -- 002    -----    https://youtu.be/M2Ij_89pIyI
